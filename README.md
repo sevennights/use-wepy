@@ -1,2 +1,2 @@
 # use-wepy
-如何使用wepy
+how to use wepy
